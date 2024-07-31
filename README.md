@@ -18,6 +18,7 @@
 
 ## Hidden Bar
 Hidden Bar lets you hide menu bar items to give your Mac a cleaner look.
+Hidden Bar是一款隐藏macOS菜单栏图标的应用
 
 <p align="center">
 	<img width="400" src="img/screen1.png">
